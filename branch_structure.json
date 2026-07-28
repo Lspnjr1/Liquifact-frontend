@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/marketplace-04-search-shortcut",
+    "fix/issue-1106",
+    "fix/issue-1147",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/marketplace-04-search-shortcut": "main",
+    "fix/issue-1106": "main",
+    "fix/issue-1147": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/marketplace-04-search-shortcut",
+    "fix/issue-1106",
+    "fix/issue-1147",
+    "origin"
+  ]
+}
